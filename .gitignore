@@ -1,0 +1,6 @@
+# System
+.DS_STORE
+
+# xCode
+Memory.xcodeproj/xcuserdata/
+Memory.xcodeproj/project.xcworkspace/xcuserdata/
